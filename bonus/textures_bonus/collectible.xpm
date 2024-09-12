@@ -1,0 +1,35 @@
+/* XPM */
+static char *collectible__1_1676399298[] = {
+/* columns rows colors chars-per-pixel */
+"24 24 5 1 ",
+"  c black",
+". c #BF0000",
+"X c #BFBF00",
+"o c yellow",
+"O c #808080",
+/* pixels */
+"OOOOOOOOOOOOOOOOOOOOOOOO",
+"O.......O.......O.......",
+"O.......O.......O.o.....",
+"O.......O...  ..O.o. ...",
+"O.......O.oXO  .OXo. ...",
+"O.......O.oXO  Oooo  ...",
+"O.......OoooooooooO  ...",
+"O.......oooooooooX  ....",
+"OOOOOOOooooooXOOO  OOOOO",
+"O.....oooXooooX   ......",
+"O....ooooOoooooXO.......",
+"O...ooooO ooOoooX.......",
+"O.XoooXO  ooXOoooX......",
+"OoooXO   .oooOOXooX.....",
+"O.OO    O.oooO  Ooo.....",
+"O.......O.oooO . Oo.....",
+"OOOOOOOOOOXooO OOOOOOOOO",
+"O.......O..ooO .O.......",
+"O.......O..XoO .O.......",
+"O.......O...oO .O.......",
+"O.......O...XO..O.......",
+"O.......O.......O.......",
+"O.......O.......O.......",
+"O.......O.......O......."
+};
